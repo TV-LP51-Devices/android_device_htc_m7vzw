@@ -5,7 +5,7 @@
     "branch": "lp5.1"
   },
   {
-    "repository": "CyanogenMod/device_htc_m7-common",
+    "repository": "CyanogenMod/android_device_htc_m7-common",
     "target_path": "device/htc/m7-common",
     "branch": "cm-12.1"
   },
