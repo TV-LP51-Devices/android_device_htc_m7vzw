@@ -15,7 +15,7 @@
     "branch": "lp5.1"
   },
   {
-    "repository": "CyanogenMod/android_device_qcom_common",
+    "repository": "CyanogenMod/device_qcom_common",
     "target_path":  "device/qcom/common",
     "branch": "cm-12.1"
   }
